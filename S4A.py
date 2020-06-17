@@ -84,5 +84,5 @@ ax.set_ylabel('Flux (Sec$^{-1}$)',size='x-large')
 plt.gcf().subplots_adjust(bottom=0.2)
 plt.gcf().subplots_adjust(left=0.2)
 
-plt.savefig("S4A.svg")
+plt.savefig("S3A.svg")
 
